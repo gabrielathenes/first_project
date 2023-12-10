@@ -6,7 +6,7 @@ setup(
     name='my_pip_package',
     version=__version__,
 
-    url='https://github.com/MichaelKim0407/tutorial-pip-package',
+    url='https://github.com/gabrielathenes/first_project',
     author='Gabriel Athènes',
     author_email='gabriel.athenes@polytechnique.edu',
 
